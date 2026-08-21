@@ -1,16 +1,32 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tangerine&size=40&pause=1000&color=520CFF&width=435&lines=Hello%2C+I'm+Adriano" alt="Typing SVG" /></a>
 
-<!--
-**Adrianuco/Adrianuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering student  
+💻 Exploring software development and data science
 
-Here are some ideas to get you started:
+Curious about how things work, from software and systems to the world around us.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring ☕️
+- Backend development with .NET
+- Data Science with Python
+- Frontend development with React
+
+---
+
+## My current toolkit
+
+### Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianuco&layout=compact&hide_border=true)
+
+### Tools
+Spring Boot • Android Studio • SQL Server • Jupyter
+
+---
+
+## A little more about me
+- 🌱 Always curious about different areas
+- 🎹 Music lover - still learning my way around it
+- 📚 Love discovering new perspectives through books
+
+---
+
+Thanks for stopping by :)
