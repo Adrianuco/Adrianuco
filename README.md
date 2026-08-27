@@ -15,7 +15,7 @@ Curious about how things work, from software and systems to the world around us.
 ## My current toolkit
 
 ### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianuco&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianuco)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 Spring Boot • Android Studio • SQL Server • Jupyter
